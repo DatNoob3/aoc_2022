@@ -120,3 +120,5 @@ public class Day8_part2 {
         System.out.println(max);
     }
 }
+
+// Answer: 268464
