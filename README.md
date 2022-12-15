@@ -1,2 +1,2 @@
-# aoc_2022
+# Advent of Code 2022
 Terrible brute force code for 2022's Advent of Code. However, I have begun to find programming acutally fun...
